@@ -20,11 +20,12 @@ reader.
 **[Source](https://github.com/NewtonSythong/is-this-a-scam)** · AGPL-3.0
 
 The number it quotes is the unflattering one. Its own small corpus reported 12
-out of 12; run against 292 real reported scam texts nobody on the project had
-read, the language model's half found something in **59.9%** of them, and that
-is the figure published. The same run showed wrong-number openers caught 2 times
-in 40. A rule written from the FTC's and Netsafe's published descriptions,
-deliberately not from the misses, took that to 13 in 40 with no new false alarms.
+out of 12; run against 146 real reported scam texts held out from a set of 292,
+scored but never read, the language model's half found something in **61.0%** of
+them, and that is the figure published. The same run showed wrong-number
+openers caught 2 times in 40. A rule written from the FTC's and Netsafe's
+published descriptions, deliberately not from the misses, took that to 13 in 40
+with no new false alarms.
 
 The most useful contribution is not code: New Zealand publishes almost no scam
 message text — banks and agencies release annotated screenshots instead — so one

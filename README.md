@@ -22,8 +22,8 @@ reader.
 The number it quotes is the unflattering one. Its own small corpus reported 12
 out of 12; run against 146 real reported scam texts held out from a set of 292,
 scored but never read, the language model's half found something in **61.0%** of
-them, and that is the figure published. The same run showed wrong-number
-openers caught 2 times in 40. A rule written from the FTC's and Netsafe's
+them, and that is the figure published. An earlier run on all 292 showed
+wrong-number openers caught 2 times in 40. A rule written from the FTC's and Netsafe's
 published descriptions, deliberately not from the misses, took that to 13 in 40
 with no new false alarms.
 

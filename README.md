@@ -19,12 +19,29 @@ reader.
 **[Try it](https://is-this-a-scam-pink.vercel.app)** ·
 **[Source](https://github.com/NewtonSythong/is-this-a-scam)** · AGPL-3.0
 
-It publishes a benchmark built to be distrusted, including the four messages
-excluded from its own headline figure. The most useful contribution is not code:
-New Zealand publishes almost no scam message text — banks and agencies release
-annotated screenshots instead — so one real scam text with a citation is worth
-more than any refactor.
+The number it quotes is the unflattering one. Its own small corpus reported 12
+out of 12; run against 146 real reported scam texts held out from a set of 292,
+scored but never read, the language model's half found something in **61.0%** of
+them, and that is the figure published. An earlier run on all 292 showed
+wrong-number openers caught 2 times in 40. A rule written from the FTC's and Netsafe's
+published descriptions, deliberately not from the misses, took that to 13 in 40
+with no new false alarms.
+
+The most useful contribution is not code: New Zealand publishes almost no scam
+message text — banks and agencies release annotated screenshots instead — so one
+real scam text with a citation is worth more than any refactor.
+
+### Also
+
+- **[Note Pilot](https://github.com/NewtonSythong/Note-Pilot)** — an AI study
+  assistant: PDF ingestion, retrieval over embedded lecture notes, and a
+  PostgreSQL schema with strict per-user isolation.
+- **[Fresh Flat](https://github.com/NewtonSythong/Fresh-Flat)** — household
+  management for flatmates, with invite-token joining and access filtered by
+  membership.
 
 ---
 
-Other work at **[newtonsythong.github.io](https://newtonsythong.github.io)**.
+More at **[newtonsythong.github.io](https://newtonsythong.github.io)**. Looking
+for graduate software roles in Wellington or Melbourne. I'm a New Zealand
+citizen with full Australian work rights.
